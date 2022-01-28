@@ -1,0 +1,10 @@
+
+#herosection{
+    background: linear-gradient(rgba(16, 46, 39, 0.609),rgba(1, 32, 6, 0.609)), url(../../image//banner/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center center;
+    height: 95vh;
+    position: relative;
+}
